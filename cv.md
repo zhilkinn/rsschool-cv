@@ -4,7 +4,6 @@
 
 ## Junior Frontend Developer
 
----
 
 ## Contact information:
 
@@ -12,7 +11,6 @@
 **E-mail:** zhilkin@vk.com
 **Telegram:** @zhilkin
 
----
 
 ## Briefly About Myself:
 
@@ -22,7 +20,6 @@ In Internet marketing, he grew from Jun to group leader in 2 years.
 
 Aims to repeat this path in IT.
 
----
 
 ## Skills and Proficiency:
 
@@ -32,7 +29,6 @@ Aims to repeat this path in IT.
 * Adobe Photoshop, Figma
 * VS Code
 
----
 
 ## Code example:
 
@@ -65,3 +61,4 @@ function peak(arr) {
 ## Languages:
 
 * English - Intermediate/Upper-intermediate
+* Russian - Native
