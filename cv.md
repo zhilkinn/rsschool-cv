@@ -4,13 +4,11 @@
 
 ## Junior Frontend Developer
 
-
 ## Contact information:
 
 **Phone:** +7 (999) 991-95-02
 **E-mail:** zhilkin@vk.com
 **Telegram:** @zhilkin
-
 
 ## Briefly About Myself:
 
@@ -20,7 +18,6 @@ In Internet marketing, he grew from Jun to group leader in 2 years.
 
 Aims to repeat this path in IT.
 
-
 ## Skills and Proficiency:
 
 * HTML5, CSS3
@@ -28,7 +25,6 @@ Aims to repeat this path in IT.
 * Git, GitHub
 * Adobe Photoshop, Figma
 * VS Code
-
 
 ## Code example:
 
@@ -48,15 +44,11 @@ function peak(arr) {
 }
 ```
 
----
-
 ## Courses:
 
 * JS course on Code Basics from Hexlet
 * JavaScript Manual on learnjavascript.ru (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-
----
 
 ## Languages:
 
