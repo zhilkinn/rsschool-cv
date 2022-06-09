@@ -1,2 +1,2 @@
 # rsschool-cv
-CV for RS School
+> link on my CV: https://zhilkinn.github.io/rsschool-cv/
